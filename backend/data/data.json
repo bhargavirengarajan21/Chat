@@ -1,0 +1,13 @@
+{
+  "isGroupChat": false,
+  "users": [
+    {
+      "name": "K",
+      "email": "kb@email.com"
+    },
+    {
+      "name": "K1",
+      "email":"kbonly@email.com"
+    }
+  ]
+}
